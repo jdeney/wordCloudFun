@@ -11,3 +11,12 @@ permite baixar em boa resolução".
 qualquer texto sobre eles.
 
 ....
+### Como funciona?
+1. Basta fazer o download do wordCloudFun em seu computador.
+2. Ter python instalado.
+3. Escolha um template e subustitua o nome na linha ""
+3. Rode em um terminal:
+>python wordCloud.py
+
+
+Ahhh sempre que tenho um tempinho add templates novos, fica ligado :)
