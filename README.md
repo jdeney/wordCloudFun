@@ -14,7 +14,7 @@ qualquer texto sobre eles.
 ### Como funciona?
 1. Basta fazer o download do wordCloudFun em seu computador.
 2. Ter python instalado.
-3. Escolha um template e subustitua o nome na linha ""
+3. Escolha um template e subustitua o nome na linha "22" e subtitua o seu texto pelo arquivo "boto_rosa.txt"
 3. Rode em um terminal:
 >python wordCloud.py
 
