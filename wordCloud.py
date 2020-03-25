@@ -19,7 +19,7 @@ dirWork = path.dirname(__file__) if "__file__" in locals() else os.getcwd()
 text = open(path.join(dirWork, 'boto_rosa.txt')).read()
 
 #Dados de entrada e saida
-maskIn = "templates/twitter_mask.jpg"
+maskIn = "templates/marielle_mask.png"
 output = "wordImages/"+"word_"+maskIn.rsplit("/")[1]
 
 # read the mask image
