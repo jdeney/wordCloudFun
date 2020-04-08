@@ -16,7 +16,7 @@ from wordcloud import WordCloud
 dirWork = path.dirname(__file__) if "__file__" in locals() else os.getcwd()
 
 # Read the whole text.
-text = open(path.join(dirWork, 'boto_rosa.txt')).read()
+text = open(path.join(dirWork, 'texto_gato.txt')).read()
 
 #Dados de entrada e saida
 maskIn = "templates/mask_cat_01.png"
