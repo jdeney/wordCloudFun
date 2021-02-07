@@ -17,5 +17,3 @@ permite baixar em boa resolução.
 3. Rode em um terminal:
 >python wordCloud.py
 
-
-Ahhh sempre que tenho um tempinho add templates novos, fica ligado :)
