@@ -1,6 +1,10 @@
 # wordCloudFun
 É uma maneira rápida e divertida de fazer word Cloud (Nuvem de palavras).
 
+<div align="center">
+  <img src="/wordImages/word_golfinho_mask.png"><br>
+</div>
+
 ### Porque estes scripts?
 
 1. Sempre queremos adicionar em uma apresentação ou postagem na internet uns gráficos Legais, as vezes abordando um tema especifico... 
